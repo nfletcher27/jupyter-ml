@@ -1,6 +1,6 @@
 # music-genres
 
-# Simple 'machine learning' program utilizing Anaconda to access Jupyter Notebook
+# Simple 'machine learning' program utilizing Anaconda to access Jupyter Notebook from Mosh Programming
 ## We use Pandas for our data visualization utilizing the sklearn library to create a graphical visualization of a decision tree
 
 Download Anaconda
