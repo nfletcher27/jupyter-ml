@@ -3,6 +3,8 @@
 # Simple 'machine learning' program utilizing Anaconda to access Jupyter Notebook from Mosh Programming
 ## We use Pandas for our data visualization utilizing the sklearn library to create a graphical visualization of a decision tree
 
+Video tutorial for this program: https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=15523s
+
 Download Anaconda
 
 Through Anaconda Navigator open Jupyter Notebook
