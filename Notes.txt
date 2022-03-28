@@ -1,0 +1,34 @@
+Steps for a machine learning project:
+
+1. Import our data
+2. Clean our data
+3. Split our data into training and testing sets
+4. Create our model using an algorithm
+5. Train our model
+6. Make predictions
+7. Evaluate and improve our model
+
+Utilize Numpy, Pandas, MatPlotLib, and Scikit-Learn
+Utilize Anaconda with Jupyter Notebook for visualization
+
+Download Anaconda
+Through Anaconda Navigator open Jupyter Notebook
+Create new folder to host project
+Create Python notebook in folder
+Select .csv file of choice and move into folder with Python notebook
+...
+import pandas as pd
+df = pd.read_csv('vgsales.csv')
+df
+
+df.shape will return (16598, 11) which is technically a 2d array
+df.describe() returns data of our .csv
+- count
+- mean
+- std
+- min
+- 25%, 50%, 75%, max
+
+What is a .ipynb file?
+- It is an organized file of .py files which holds each individual cell and it's output, so we do not have to run
+all files at once when working with large data sets
