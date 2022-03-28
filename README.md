@@ -4,9 +4,13 @@
 ## We use Pandas for our data visualization utilizing the sklearn library to create a graphical visualization of a decision tree
 
 Download Anaconda
+
 Through Anaconda Navigator open Jupyter Notebook
+
 Create new folder to host project
+
 Create Python notebook in folder
+
 Select .csv file of choice and move into folder with Python notebook
 
 ### What is a .ipynb file?
