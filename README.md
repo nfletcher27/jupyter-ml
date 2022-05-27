@@ -1,6 +1,6 @@
 # music-genres
 
-## We use Pandas (Anaconda -> JPNotebook) for our data visualization utilizing the sklearn library to create a graphical visualization of a decision tree
+### Used Pandas (Anaconda -> JPNotebook) for our data visualization utilizing the sklearn library to create a graphical visualization of a decision tree
 
 Download Anaconda
 
